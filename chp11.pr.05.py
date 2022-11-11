@@ -38,3 +38,5 @@ v1 = Vector([1, 4, 6])     # one argument as list
 v2 = Vector([1, 6, 9])
 print(v1+v2)    # for adding the vectors.
 print("by multiplying the vectors the ans is: ",v1*v2)    # for multiplying the vectors.
+
+# datta kale
